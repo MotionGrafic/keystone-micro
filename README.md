@@ -11,9 +11,9 @@ module.exports = {
     new MicroGraphQLApp(),
   ],
 };
-``````
+```
 
-``````
+```
 // micro.js
 const { keystone, apps } = require("./keystone");
 
