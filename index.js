@@ -104,6 +104,6 @@ class MicroGraphQLApp {
 }
 
 module.exports = {
-  GraphQLApp,
+  MicroGraphQLApp,
   validation,
 };
