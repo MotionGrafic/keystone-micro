@@ -1,0 +1,16 @@
+{
+  "name": "keystone-micro",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:MotionGrafic/keystone-micro-graphql-app.git",
+  "author": "Hoang Trieu, Khang <khoangtrieu@paypal.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@keystonejs/app-graphql-playground": "^5.1.8",
+    "apollo-errors": "^1.9.0",
+    "apollo-server-micro": "^2.19.1",
+    "express": "^4.17.1",
+    "graphql": "^15.4.0",
+    "graphql-upload": "^11.0.0"
+  }
+}
